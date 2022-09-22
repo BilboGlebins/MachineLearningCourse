@@ -1,0 +1,9 @@
+EMAIL, NAME, LAST_NAME, TEL, CITY
+, Ekaterina, Ilyina, , St.Petersburg
+, Andrey, Fedorov, 85212384, Minsk
+, Alexandr, Evdokimov, 482, Volokolamsk
+, , , , 
+, Vasiliy, , 7123465, Moscow
+, Valentina, Sergach, 12345567, St.Petersburg
+, ffff, ffff, ffff, fffff
+, , , 8954245, Moscow
